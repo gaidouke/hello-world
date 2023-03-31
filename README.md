@@ -7,4 +7,4 @@ I'm majoring in :sparkles:computer engineering:sparkles:
 
 This is an edited version of the read-me file.
 
-Thanks for visiting! :)
+Hello world...
